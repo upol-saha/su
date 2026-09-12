@@ -4,11 +4,39 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-12T14:12:02.071Z",
-    "totalEntries": 0,
+    "lastUpdated": "2026-09-12T14:43:29.779Z",
+    "totalEntries": 1,
     "totalAnime": 0,
-    "totalMovies": 0,
+    "totalMovies": 1,
     "totalEpisodes": 0
   },
-  "anime": []
+  "anime": [
+    {
+      "id": "aniv-1789224209779-xphjs",
+      "type": "movie",
+      "title": "A Silent Voice (Koe no Katachi)",
+      "aired": "September 17, 2016",
+      "rating": "8.6/10",
+      "description": "Shoya Ishida once bullied Shoko Nishimiya, a deaf girl who joined his class.\nYears later, Shoya regrets his past actions and tries to reconnect with Shoko.\nThe story explores friendship, forgiveness, communication, and growing up.\nIt is an emotional story about learning from mistakes and making amends.",
+      "posterUrl": "https://i.imgur.com/eVS7zC1.png",
+      "studio": "Unknown Studio",
+      "genre": [
+        "Romance",
+        "Drama",
+        "Silent"
+      ],
+      "status": "Completed",
+      "createdAt": "2026-09-12T14:43:29.779Z",
+      "updatedAt": "2026-09-12T14:43:29.779Z",
+      "servers": [
+        {
+          "id": "srv-1789224061306-m1",
+          "name": "anivero-hindi",
+          "url": "https://hugh.cdn.rumble.cloud/video/fww1/87/s8/2/S/M/W/8/SMW8y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1002096128-1002172566",
+          "quality": "1080p",
+          "type": "Direct HLS / MP4"
+        }
+      ]
+    }
+  ]
 }
