@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-12T15:10:30.457Z",
+    "lastUpdated": "2026-09-12T15:12:35.729Z",
     "totalEntries": 2,
     "totalAnime": 0,
     "totalMovies": 2,
@@ -19,7 +19,7 @@
       "rating": "7.6/10",
       "description": "Two years after the Fourth Great Ninja War, the Moon begins moving toward Earth, threatening the entire planet.\nAt the same time, Hinata's younger sister Hanabi is kidnapped by Toneri Ōtsutsuki.\nNaruto, Hinata, Sakura, Sai, and Shikamaru set out on a mission to rescue Hanabi and stop the disaster.\nThe movie also focuses heavily on Naruto and Hinata's relationship and serves as an important conclusion to Naruto's story.",
       "posterUrl": "https://i.imgur.com/mPltQz6.jpeg",
-      "studio": "Unknown Studio",
+      "studio": "Studio Pierrot",
       "genre": [
         "Action",
         "Drama",
@@ -31,7 +31,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-12T15:10:30.457Z",
-      "updatedAt": "2026-09-12T15:10:30.457Z",
+      "updatedAt": "2026-09-12T15:12:35.729Z",
       "servers": [
         {
           "id": "srv-1789225675410-m1",
