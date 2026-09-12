@@ -4,13 +4,51 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-12T14:55:27.478Z",
-    "totalEntries": 1,
+    "lastUpdated": "2026-09-12T15:10:30.457Z",
+    "totalEntries": 2,
     "totalAnime": 0,
-    "totalMovies": 1,
+    "totalMovies": 2,
     "totalEpisodes": 0
   },
   "anime": [
+    {
+      "id": "aniv-1789225830457-ou3iq",
+      "type": "movie",
+      "title": "The Last: Naruto the Movie",
+      "aired": "December 6, 2014",
+      "rating": "7.6/10",
+      "description": "Two years after the Fourth Great Ninja War, the Moon begins moving toward Earth, threatening the entire planet.\nAt the same time, Hinata's younger sister Hanabi is kidnapped by Toneri Ōtsutsuki.\nNaruto, Hinata, Sakura, Sai, and Shikamaru set out on a mission to rescue Hanabi and stop the disaster.\nThe movie also focuses heavily on Naruto and Hinata's relationship and serves as an important conclusion to Naruto's story.",
+      "posterUrl": "https://i.imgur.com/mPltQz6.jpeg",
+      "studio": "Unknown Studio",
+      "genre": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Mystery"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-12T15:10:30.457Z",
+      "updatedAt": "2026-09-12T15:10:30.457Z",
+      "servers": [
+        {
+          "id": "srv-1789225675410-m1",
+          "name": "anivero-en",
+          "url": "https://edge1-moscow-sprintcdn.owphbf24.com/hls2/01/11243/r0lb5v2imimu_h/master.m3u8?t=ylXinKXZFwZWgXQEjb1AECYwTSc5F1WTb8weTwoFMuQ&s=1789134620&e=10800&f=56219331&srv=1050&asn=&sp=4000&p=0",
+          "quality": "1080p",
+          "type": "Direct HLS / MP4"
+        },
+        {
+          "id": "srv-m-1789225781280-2",
+          "name": "anivero-en-hd",
+          "url": "https://edge1-moscow-sprintcdn.owphbf24.com/hls2/01/11243/r0lb5v2imimu_h/index-v1-a1.m3u8?t=ylXinKXZFwZWgXQEjb1AECYwTSc5F1WTb8weTwoFMuQ&s=1789134620&e=10800&f=56219331&srv=1050&asn=&sp=4000&p=0",
+          "quality": "1080p",
+          "type": "Direct HLS / MP4"
+        }
+      ]
+    },
     {
       "id": "aniv-1789224209779-xphjs",
       "type": "movie",
