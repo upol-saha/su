@@ -4,15 +4,44 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-12T15:14:46.822Z",
-    "totalEntries": 2,
+    "lastUpdated": "2026-09-12T21:01:15.012Z",
+    "totalEntries": 3,
     "totalAnime": 0,
-    "totalMovies": 2,
+    "totalMovies": 3,
     "totalEpisodes": 0
   },
   "anime": [
     {
-      "id": "aniv-1789225830457-ou3iq",
+      "id": "anivero-upol-suzume-zn8c",
+      "type": "movie",
+      "title": "Suzume",
+      "aired": "November 11, 2022",
+      "rating": "7.9/10",
+      "description": "The story follows 17-year-old Suzume Iwato, a high school girl living in a quiet town in Kyushu who encounters a mysterious traveler named Souta looking for ruins. After she unwittingly opens a supernatural, freestanding door in the mountains, she accidentally releases a colossal force that causes devastating earthquakes across the country. To correct her mistake, she embarks on a fast-paced road trip across Japan to lock these magical portals before they unleash total ruin. Along the way, she must navigate this high-stakes mission while accompanied by Souta, who has been curse-transformed into a small, three-legged wooden chair.",
+      "posterUrl": "https://i.imgur.com/dzKTivs.jpeg",
+      "studio": "Unknown Studio",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-12T21:01:15.012Z",
+      "updatedAt": "2026-09-12T21:01:15.012Z",
+      "servers": [
+        {
+          "id": "anivero-upol-srv-1789246789397-m1",
+          "name": "anivero-hindi",
+          "url": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/g/G/L/u/gGLuy.caa.mp4",
+          "quality": "1080p",
+          "type": "Direct HLS / MP4"
+        }
+      ]
+    },
+    {
+      "id": "anivero-upol-1789225830457-ou3iq",
       "type": "movie",
       "title": "The Last: Naruto the Movie",
       "aired": "December 6, 2014",
@@ -34,14 +63,14 @@
       "updatedAt": "2026-09-12T15:12:35.729Z",
       "servers": [
         {
-          "id": "srv-1789225675410-m1",
+          "id": "anivero-upol-srv-1789225675410-m1",
           "name": "anivero-en",
           "url": "https://edge1-moscow-sprintcdn.owphbf24.com/hls2/01/11243/r0lb5v2imimu_h/master.m3u8?t=ylXinKXZFwZWgXQEjb1AECYwTSc5F1WTb8weTwoFMuQ&s=1789134620&e=10800&f=56219331&srv=1050&asn=&sp=4000&p=0",
           "quality": "1080p",
           "type": "Direct HLS / MP4"
         },
         {
-          "id": "srv-m-1789225781280-2",
+          "id": "anivero-upol-srv-m-1789225781280-2",
           "name": "anivero-en-hd",
           "url": "https://edge1-moscow-sprintcdn.owphbf24.com/hls2/01/11243/r0lb5v2imimu_h/index-v1-a1.m3u8?t=ylXinKXZFwZWgXQEjb1AECYwTSc5F1WTb8weTwoFMuQ&s=1789134620&e=10800&f=56219331&srv=1050&asn=&sp=4000&p=0",
           "quality": "1080p",
@@ -50,7 +79,7 @@
       ]
     },
     {
-      "id": "aniv-1789224209779-xphjs",
+      "id": "anivero-upol-1789224209779-xphjs",
       "type": "movie",
       "title": "A Silent Voice (Koe no Katachi)",
       "aired": "September 17, 2016",
@@ -68,7 +97,7 @@
       "updatedAt": "2026-09-12T15:14:46.822Z",
       "servers": [
         {
-          "id": "srv-1789224061306-m1",
+          "id": "anivero-upol-srv-1789224061306-m1",
           "name": "anivero-hindi",
           "url": "https://hugh.cdn.rumble.cloud/video/fww1/87/s8/2/S/M/W/8/SMW8y.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1002096128-1002172566",
           "quality": "1080p",
