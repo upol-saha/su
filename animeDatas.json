@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-12T15:12:35.729Z",
+    "lastUpdated": "2026-09-12T15:14:46.822Z",
     "totalEntries": 2,
     "totalAnime": 0,
     "totalMovies": 2,
@@ -54,7 +54,7 @@
       "type": "movie",
       "title": "A Silent Voice (Koe no Katachi)",
       "aired": "September 17, 2016",
-      "rating": "8.6/10",
+      "rating": "6.1/10",
       "description": "Shoya Ishida once bullied Shoko Nishimiya, a deaf girl who joined his class.\nYears later, Shoya regrets his past actions and tries to reconnect with Shoko.\nThe story explores friendship, forgiveness, communication, and growing up.\nIt is an emotional story about learning from mistakes and making amends.",
       "posterUrl": "https://i.imgur.com/eVS7zC1.png",
       "studio": "Kyoto Animation",
@@ -65,7 +65,7 @@
       ],
       "status": "Completed",
       "createdAt": "2026-09-12T14:43:29.779Z",
-      "updatedAt": "2026-09-12T14:55:27.478Z",
+      "updatedAt": "2026-09-12T15:14:46.822Z",
       "servers": [
         {
           "id": "srv-1789224061306-m1",
