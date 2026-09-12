@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "appName": "AniVero database management",
+    "repo": "su",
+    "fileName": "animeDatas.json",
+    "branch": "main",
+    "lastUpdated": "2026-09-12T14:12:02.071Z",
+    "totalEntries": 0,
+    "totalAnime": 0,
+    "totalMovies": 0,
+    "totalEpisodes": 0
+  },
+  "anime": []
+}
