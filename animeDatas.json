@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-12T21:01:15.012Z",
+    "lastUpdated": "2026-09-12T21:02:40.530Z",
     "totalEntries": 3,
     "totalAnime": 0,
     "totalMovies": 3,
@@ -19,7 +19,7 @@
       "rating": "7.9/10",
       "description": "The story follows 17-year-old Suzume Iwato, a high school girl living in a quiet town in Kyushu who encounters a mysterious traveler named Souta looking for ruins. After she unwittingly opens a supernatural, freestanding door in the mountains, she accidentally releases a colossal force that causes devastating earthquakes across the country. To correct her mistake, she embarks on a fast-paced road trip across Japan to lock these magical portals before they unleash total ruin. Along the way, she must navigate this high-stakes mission while accompanied by Souta, who has been curse-transformed into a small, three-legged wooden chair.",
       "posterUrl": "https://i.imgur.com/dzKTivs.jpeg",
-      "studio": "Unknown Studio",
+      "studio": "CoMix Wave Films",
       "genre": [
         "Drama",
         "Romance"
@@ -29,7 +29,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-12T21:01:15.012Z",
-      "updatedAt": "2026-09-12T21:01:15.012Z",
+      "updatedAt": "2026-09-12T21:02:40.530Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789246789397-m1",
