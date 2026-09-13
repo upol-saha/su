@@ -4,13 +4,62 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:30:16.529Z",
-    "totalEntries": 5,
-    "totalAnime": 2,
+    "lastUpdated": "2026-09-13T11:56:43.778Z",
+    "totalEntries": 6,
+    "totalAnime": 3,
     "totalMovies": 3,
-    "totalEpisodes": 5
+    "totalEpisodes": 6
   },
   "anime": [
+    {
+      "id": "anivero-upol-an-adventurer-s-daily-gr-qj1l",
+      "type": "anime",
+      "title": "An adventurer's daily grind at age 29",
+      "aired": "January 7, 2026",
+      "rating": "8.5/10",
+      "description": "Hajime Shinonome is a 29-year-old adventurer who grew up in the slums.\nHe now enjoys a peaceful life in Komai Village while taking on adventurer quests.\nDuring a dungeon mission, he finds an abandoned young girl named Rirui in danger.\nHajime rescues her and brings her back to the village, beginning an unexpected new chapter in both their lives.",
+      "posterUrl": "https://i.imgur.com/quKWCCN.jpeg",
+      "studio": "Unknown Studio",
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-13T11:56:43.778Z",
+      "updatedAt": "2026-09-13T11:56:43.778Z",
+      "seasons": [
+        {
+          "id": "s-1789300502665",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "id": "ep-1789300502665-1",
+              "episodeNumber": 1,
+              "title": "Episode 1",
+              "duration": "24m",
+              "servers": [
+                {
+                  "id": "anivero-upol-srv-1789300502665-1",
+                  "name": "anivero-hindi",
+                  "url": "https://img1.knocw.com/hls/a1b09e731d2e873b5f3cb6c94f91135fa9592801/720/index_338.m3u8?auth_key=66ALphgRqd2CH53%2FJzCDMMcp2Jz6nBOvevONs7qw2%2B8%3D&expire=1789136565311",
+                  "quality": "1080p",
+                  "type": "VidCloud"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "categories": [
+        "popular"
+      ]
+    },
     {
       "id": "anivero-upol-tomb-raider-king-qv6v",
       "type": "anime",
