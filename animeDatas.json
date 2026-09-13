@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:29:28.899Z",
+    "lastUpdated": "2026-09-13T11:30:16.529Z",
     "totalEntries": 5,
     "totalAnime": 2,
     "totalMovies": 3,
@@ -31,7 +31,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:23:54.972Z",
-      "updatedAt": "2026-09-13T11:29:28.899Z",
+      "updatedAt": "2026-09-13T11:30:16.529Z",
       "seasons": [
         {
           "id": "s-1789298543417",
@@ -42,7 +42,7 @@
               "id": "ep-1789298543417-1",
               "episodeNumber": 1,
               "title": "Episode 1",
-              "duration": "24m",
+              "duration": "23m",
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789298543417-1",
@@ -57,7 +57,7 @@
               "id": "ep-1789298892798-2",
               "episodeNumber": 2,
               "title": "Episode 2",
-              "duration": "24m",
+              "duration": "23m",
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789298895063",
@@ -72,7 +72,7 @@
               "id": "ep-1789298907044-3",
               "episodeNumber": 3,
               "title": "Episode 3",
-              "duration": "24m",
+              "duration": "23m",
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789298910725",
