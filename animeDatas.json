@@ -4,13 +4,62 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:14:28.869Z",
-    "totalEntries": 4,
-    "totalAnime": 1,
+    "lastUpdated": "2026-09-13T11:23:54.972Z",
+    "totalEntries": 5,
+    "totalAnime": 2,
     "totalMovies": 3,
-    "totalEpisodes": 2
+    "totalEpisodes": 3
   },
   "anime": [
+    {
+      "id": "anivero-upol-tomb-raider-king-qv6v",
+      "type": "anime",
+      "title": "Tomb Raider King",
+      "aired": "July 8, 2026",
+      "rating": "6.3/10",
+      "description": "Mysterious tombs suddenly appear around the world, each containing powerful relics.\nTomb raider Jooheon Suh is betrayed and nearly dies.\nHe mysteriously travels 15 years into the past, before the tombs appear.\nUsing his knowledge of the future, he sets out to claim the relics and take revenge.",
+      "posterUrl": "https://i.imgur.com/FRd6MHM.jpeg",
+      "studio": "Unknown Studio",
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Mystery"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-13T11:23:54.972Z",
+      "updatedAt": "2026-09-13T11:23:54.972Z",
+      "seasons": [
+        {
+          "id": "s-1789298543417",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "id": "ep-1789298543417-1",
+              "episodeNumber": 1,
+              "title": "Episode 1",
+              "duration": "24m",
+              "servers": [
+                {
+                  "id": "anivero-upol-srv-1789298543417-1",
+                  "name": "Primary Server (1080p)",
+                  "url": "https://stream.aniv.io/embed/ep1",
+                  "quality": "1080p",
+                  "type": "Embed"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "categories": [
+        "popular"
+      ]
+    },
     {
       "id": "anivero-upol-black-torch-mar7",
       "type": "anime",
