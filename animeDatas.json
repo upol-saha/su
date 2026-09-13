@@ -4,11 +4,11 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:09:45.555Z",
+    "lastUpdated": "2026-09-13T11:14:28.869Z",
     "totalEntries": 4,
     "totalAnime": 1,
     "totalMovies": 3,
-    "totalEpisodes": 1
+    "totalEpisodes": 2
   },
   "anime": [
     {
@@ -29,7 +29,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:09:45.555Z",
-      "updatedAt": "2026-09-13T11:09:45.555Z",
+      "updatedAt": "2026-09-13T11:14:28.869Z",
       "seasons": [
         {
           "id": "s-1789297645617",
@@ -44,10 +44,25 @@
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789297645617-1",
-                  "name": "Primary Server (1080p)",
-                  "url": "https://stream.aniv.io/embed/ep1",
+                  "name": "anivero-hindi",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/6f/s8/2/u/t/F/T/utFTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=187041280-187055472",
                   "quality": "1080p",
-                  "type": "Embed"
+                  "type": "StreamSB"
+                }
+              ]
+            },
+            {
+              "id": "ep-1789298032576-2",
+              "episodeNumber": 2,
+              "title": "Episode 2",
+              "duration": "24m",
+              "servers": [
+                {
+                  "id": "anivero-upol-srv-1789298040964",
+                  "name": "anivero-hindi",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/2/o/g/I/W/ogIWA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=187158016-187172210",
+                  "quality": "1080p",
+                  "type": "StreamSB"
                 }
               ]
             }
