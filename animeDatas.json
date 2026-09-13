@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T12:02:28.987Z",
+    "lastUpdated": "2026-09-13T12:02:51.282Z",
     "totalEntries": 6,
     "totalAnime": 3,
     "totalMovies": 3,
@@ -68,7 +68,7 @@
       "rating": "6.3/10",
       "description": "Mysterious tombs suddenly appear around the world, each containing powerful relics.\nTomb raider Jooheon Suh is betrayed and nearly dies.\nHe mysteriously travels 15 years into the past, before the tombs appear.\nUsing his knowledge of the future, he sets out to claim the relics and take revenge.",
       "posterUrl": "https://i.imgur.com/FRd6MHM.jpeg",
-      "studio": "Unknown Studio",
+      "studio": "Studio EEK",
       "genre": [
         "Action",
         "Fantasy",
@@ -80,7 +80,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:23:54.972Z",
-      "updatedAt": "2026-09-13T11:30:16.529Z",
+      "updatedAt": "2026-09-13T12:02:51.282Z",
       "seasons": [
         {
           "id": "s-1789298543417",
