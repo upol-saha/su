@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:56:43.778Z",
+    "lastUpdated": "2026-09-13T12:02:04.002Z",
     "totalEntries": 6,
     "totalAnime": 3,
     "totalMovies": 3,
@@ -19,7 +19,7 @@
       "rating": "8.5/10",
       "description": "Hajime Shinonome is a 29-year-old adventurer who grew up in the slums.\nHe now enjoys a peaceful life in Komai Village while taking on adventurer quests.\nDuring a dungeon mission, he finds an abandoned young girl named Rirui in danger.\nHajime rescues her and brings her back to the village, beginning an unexpected new chapter in both their lives.",
       "posterUrl": "https://i.imgur.com/quKWCCN.jpeg",
-      "studio": "Unknown Studio",
+      "studio": "HORNETS",
       "genre": [
         "Action",
         "Fantasy",
@@ -31,7 +31,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:56:43.778Z",
-      "updatedAt": "2026-09-13T11:56:43.778Z",
+      "updatedAt": "2026-09-13T12:02:04.002Z",
       "seasons": [
         {
           "id": "s-1789300502665",
