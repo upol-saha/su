@@ -4,11 +4,11 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:23:54.972Z",
+    "lastUpdated": "2026-09-13T11:28:44.086Z",
     "totalEntries": 5,
     "totalAnime": 2,
     "totalMovies": 3,
-    "totalEpisodes": 3
+    "totalEpisodes": 5
   },
   "anime": [
     {
@@ -31,7 +31,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:23:54.972Z",
-      "updatedAt": "2026-09-13T11:23:54.972Z",
+      "updatedAt": "2026-09-13T11:28:44.085Z",
       "seasons": [
         {
           "id": "s-1789298543417",
@@ -46,10 +46,40 @@
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789298543417-1",
-                  "name": "Primary Server (1080p)",
-                  "url": "https://stream.aniv.io/embed/ep1",
+                  "name": "anivero-hindi",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/00/s8/2/Q/o/T/J/QoTJA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181623808-181637614",
                   "quality": "1080p",
-                  "type": "Embed"
+                  "type": "MegaCloud"
+                }
+              ]
+            },
+            {
+              "id": "ep-1789298892798-2",
+              "episodeNumber": 2,
+              "title": "Episode 2",
+              "duration": "24m",
+              "servers": [
+                {
+                  "id": "anivero-upol-srv-1789298895063",
+                  "name": "Vidstream Fast Server",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/-/j/1/L/-j1LA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181502464-181516176",
+                  "quality": "1080p",
+                  "type": "MegaCloud"
+                }
+              ]
+            },
+            {
+              "id": "ep-1789298907044-3",
+              "episodeNumber": 3,
+              "title": "Episode 3",
+              "duration": "24m",
+              "servers": [
+                {
+                  "id": "anivero-upol-srv-1789298910725",
+                  "name": "Vidstream Fast Server",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/e9/s8/2/y/8/u/P/y8uPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181702144-181715975",
+                  "quality": "1080p",
+                  "type": "MegaCloud"
                 }
               ]
             }
