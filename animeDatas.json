@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T03:02:33.320Z",
+    "lastUpdated": "2026-09-13T03:02:49.640Z",
     "totalEntries": 3,
     "totalAnime": 0,
     "totalMovies": 3,
@@ -64,7 +64,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-12T15:10:30.457Z",
-      "updatedAt": "2026-09-13T02:58:31.927Z",
+      "updatedAt": "2026-09-13T03:02:49.640Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789225675410-m1",
@@ -82,7 +82,8 @@
         }
       ],
       "categories": [
-        "popular"
+        "trending",
+        "complete"
       ]
     },
     {
