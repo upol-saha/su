@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T11:28:44.086Z",
+    "lastUpdated": "2026-09-13T11:29:28.899Z",
     "totalEntries": 5,
     "totalAnime": 2,
     "totalMovies": 3,
@@ -31,7 +31,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:23:54.972Z",
-      "updatedAt": "2026-09-13T11:28:44.085Z",
+      "updatedAt": "2026-09-13T11:29:28.899Z",
       "seasons": [
         {
           "id": "s-1789298543417",
@@ -61,7 +61,7 @@
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789298895063",
-                  "name": "Vidstream Fast Server",
+                  "name": "anivero-hindi",
                   "url": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/-/j/1/L/-j1LA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181502464-181516176",
                   "quality": "1080p",
                   "type": "MegaCloud"
@@ -76,7 +76,7 @@
               "servers": [
                 {
                   "id": "anivero-upol-srv-1789298910725",
-                  "name": "Vidstream Fast Server",
+                  "name": "anivero-hindi",
                   "url": "https://hugh.cdn.rumble.cloud/video/fww1/e9/s8/2/y/8/u/P/y8uPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181702144-181715975",
                   "quality": "1080p",
                   "type": "MegaCloud"
