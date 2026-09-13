@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T02:58:31.927Z",
+    "lastUpdated": "2026-09-13T02:58:42.005Z",
     "totalEntries": 2,
     "totalAnime": 0,
     "totalMovies": 2,
@@ -68,7 +68,7 @@
       ],
       "status": "Completed",
       "createdAt": "2026-09-12T14:43:29.779Z",
-      "updatedAt": "2026-09-13T02:56:44.794Z",
+      "updatedAt": "2026-09-13T02:58:42.004Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789224061306-m1",
