@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T12:02:04.002Z",
+    "lastUpdated": "2026-09-13T12:02:28.987Z",
     "totalEntries": 6,
     "totalAnime": 3,
     "totalMovies": 3,
@@ -147,7 +147,7 @@
       "rating": "8.9/10",
       "description": "Jiro Azuma is a rough-and-tumble high schooler descended from a long line of ninjas who possesses the unique, supernatural ability to communicate with animals. His life takes a dangerous turn after rescuing an injured black cat named Rago, who turns out to be a powerful, legendary demonic spirit known as a Mononoke. When a fatal clash with hostile spirits forces Rago to fuse with him to save his life, Jiro is granted extraordinary powers. Now paired with the snarky spirit cat, he is recruited into a secret government espionage agency called \"Black Torch\" to fight off rogue spirits threatening humanity.",
       "posterUrl": "https://i.imgur.com/DeSifOh.jpeg",
-      "studio": "Unknown Studio",
+      "studio": "100studio",
       "genre": [
         "Action",
         "Dark-Fantasy"
@@ -157,7 +157,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:09:45.555Z",
-      "updatedAt": "2026-09-13T11:14:28.869Z",
+      "updatedAt": "2026-09-13T12:02:28.987Z",
       "seasons": [
         {
           "id": "s-1789297645617",
