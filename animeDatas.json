@@ -4,13 +4,46 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T02:58:42.005Z",
-    "totalEntries": 2,
+    "lastUpdated": "2026-09-13T03:02:21.769Z",
+    "totalEntries": 3,
     "totalAnime": 0,
-    "totalMovies": 2,
+    "totalMovies": 3,
     "totalEpisodes": 0
   },
   "anime": [
+    {
+      "id": "anivero-upol-suzume-ao9v",
+      "type": "movie",
+      "title": "Suzume",
+      "aired": "November 11, 2022",
+      "rating": "7.9/10",
+      "description": "The story follows 17-year-old Suzume Iwato, a high school girl living in a quiet town in Kyushu who encounters a mysterious traveler named Souta looking for ruins. After she unwittingly opens a supernatural, freestanding door in the mountains, she accidentally releases a colossal force that causes devastating earthquakes across the country. To correct her mistake, she embarks on a fast-paced road trip across Japan to lock these magical portals before they unleash total ruin. Along the way, she must navigate this high-stakes mission while accompanied by Souta, who has been curse-transformed into a small, three-legged wooden chair.",
+      "posterUrl": "https://i.imgur.com/dzKTivs.jpeg",
+      "studio": "CoMix Wave Films",
+      "genre": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-13T03:02:21.769Z",
+      "updatedAt": "2026-09-13T03:02:21.769Z",
+      "servers": [
+        {
+          "id": "anivero-upol-srv-1789268443936-m1",
+          "name": "anivero-hindi",
+          "url": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/g/G/L/u/gGLuy.caa.mp4",
+          "quality": "1080p",
+          "type": "Direct HLS / MP4"
+        }
+      ],
+      "categories": [
+        "popular"
+      ]
+    },
     {
       "id": "anivero-upol-1789225830457-ou3iq",
       "type": "movie",
