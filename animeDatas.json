@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-15T10:16:53.787Z",
+    "lastUpdated": "2026-09-15T10:18:52.646Z",
     "totalEntries": 7,
     "totalAnime": 3,
     "totalMovies": 4,
@@ -19,7 +19,7 @@
       "rating": "8.9/10",
       "description": "Light Yagami, a highly intelligent student, discovers a mysterious notebook with supernatural powers.\nHe decides to use it to eliminate criminals and create what he considers a perfect world.\nHis actions attract the attention of the brilliant detective L.\nThis leads to an intense battle of intelligence, strategy, and deception.",
       "posterUrl": "https://i.imgur.com/H0qdENd.jpeg",
-      "studio": "H",
+      "studio": "MADHOUSE",
       "genre": [
         "Fantasy",
         "Mystery",
@@ -32,7 +32,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-15T10:16:53.787Z",
-      "updatedAt": "2026-09-15T10:16:53.787Z",
+      "updatedAt": "2026-09-15T10:18:52.646Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789467290161-m1",
