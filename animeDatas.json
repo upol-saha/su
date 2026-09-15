@@ -4,13 +4,64 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-15T10:32:37.014Z",
-    "totalEntries": 6,
-    "totalAnime": 3,
+    "lastUpdated": "2026-09-15T10:34:45.600Z",
+    "totalEntries": 7,
+    "totalAnime": 4,
     "totalMovies": 3,
-    "totalEpisodes": 6
+    "totalEpisodes": 7
   },
   "anime": [
+    {
+      "id": "anivero-upol-death-note-krz0",
+      "type": "anime",
+      "title": "Death Note (デスノート)",
+      "aired": "October 3, 2006",
+      "rating": "9.1/10",
+      "description": "Light Yagami, a highly intelligent student, discovers a mysterious notebook with supernatural powers.\nHe decides to use it to eliminate criminals and create what he considers a perfect world.\nHis actions attract the attention of the brilliant detective L.\nThis leads to an intense battle of intelligence, strategy, and deception.",
+      "posterUrl": "https://i.imgur.com/H0qdENd.jpeg",
+      "studio": "MADHOUSE",
+      "genre": [
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Supernatural",
+        "Thriller",
+        "Crime"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-15T10:34:45.599Z",
+      "updatedAt": "2026-09-15T10:34:45.599Z",
+      "seasons": [
+        {
+          "id": "s-1789468362948",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodes": [
+            {
+              "id": "ep-1789468362948-1",
+              "episodeNumber": 1,
+              "title": "Episode 1",
+              "duration": "24m",
+              "servers": [
+                {
+                  "id": "anivero-upol-srv-1789468362948-1",
+                  "name": "anivero-hindi",
+                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/34/s8/2/G/V/G/d/GVGdz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=180784640-180798345",
+                  "quality": "Auto",
+                  "type": "StreamSB"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "categories": [
+        "popular"
+      ]
+    },
     {
       "id": "anivero-upol-an-adventurer-s-daily-gr-qj1l",
       "type": "anime",
