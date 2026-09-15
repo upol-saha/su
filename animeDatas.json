@@ -4,13 +4,48 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-13T12:02:51.282Z",
-    "totalEntries": 6,
+    "lastUpdated": "2026-09-15T10:16:53.787Z",
+    "totalEntries": 7,
     "totalAnime": 3,
-    "totalMovies": 3,
+    "totalMovies": 4,
     "totalEpisodes": 6
   },
   "anime": [
+    {
+      "id": "anivero-upol-death-note-uf7n",
+      "type": "movie",
+      "title": "Death Note (デスノート)",
+      "aired": "October 3, 2006",
+      "rating": "8.9/10",
+      "description": "Light Yagami, a highly intelligent student, discovers a mysterious notebook with supernatural powers.\nHe decides to use it to eliminate criminals and create what he considers a perfect world.\nHis actions attract the attention of the brilliant detective L.\nThis leads to an intense battle of intelligence, strategy, and deception.",
+      "posterUrl": "https://i.imgur.com/H0qdENd.jpeg",
+      "studio": "H",
+      "genre": [
+        "Fantasy",
+        "Mystery",
+        "Thriller",
+        "Horror",
+        "Crime"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-15T10:16:53.787Z",
+      "updatedAt": "2026-09-15T10:16:53.787Z",
+      "servers": [
+        {
+          "id": "anivero-upol-srv-1789467290161-m1",
+          "name": "anivero-hindi",
+          "url": "https://cdndirectstreamwithoutbreaking.animahd011.workers.dev/?eid=MjA2YjdkNDc1MDViMjI3YTVjNDI0OTY1NTU3NzY2N2Y2NDdhMjA0OTdlNTI0ZTQ1M2M2MjUzNDI3YjI5Njc3MjQw&token=Njg3MDIzMjgzZjcyM2Y3MjIxNTA0YjI1NzM1ZjYxNzM2MDQyNWQ3Mzc4NzAzYzQwNzA0ZTI3MjU3MzY0Mjc0MDcyMjA2NDZiNDgyODVkNWM3ZTYxN2I3ZDc3MjE0Njc2NDI0MjVhNDg3YjUyNzA3ODI1N2QyMzc0NjA3OTZiNzU1MDdjNTc0MDUwN2Y1YTI4NGU3NTQxNzM1MDc0NjY2MTdhNDM3YzIxNDQ1NDVlNjgzYzViM2M3OTdjNjA0MDdhMjI3YjQ2NWE0NDI2Njc0NzczMjc3ZDU1N2Q0MjQ2NjA0OTY5NjMyOTU4NDQ2NDdiMjQ2NzcwNjc3YjcwM2M3OTQ4NWU3Mjc3MjU1MjRlN2Q0MDQzN2E0ODdlNzQyOTIyNzA2NDRlMjM3MDQ4N2E0ZTViNGI2NTQ0NjUyODc0NWIyMjI2NTAyODQ4MjU3NjNjNzA0NTRlN2UyODc4NDQ2YjQ3NTIyODIzMjM3YjY1NjY0ZTRlNjY3Yzc2NzQ1ZDYzNDE2MTU2Nzk3YTQwNTQ0MDQxNDMyOTIwNjEyODUwNzY0ODIzN2Q1ZTdkNDk3YjQ4NjQ2NTdjM2M2NzIyNjA3ZDc5NDk1MzYwNDY0NzIwNjIyODQxNWQ2YjdlNWIyMTQ3NjMzYzI3NWE1YTU5NGI3NDQ3NzM0ZTcyNWE2MjU4MjQ3NDVjNjg2MDY5MjM2NTYzNWE0MjI2MjM1MDc5NzY3ZjVkN2Q2NDczNTg0NjVkMjA1ODUyNzA3YTQwNmI3ZTI1NGI3ZjIzNDQ2MjVkN2M1MzI2NTg3NzNjNDA3ZTdmNTY1YzU0N2Y1MDVlNTM3ZjQ2Nzc0NDIxNTg2NTc3MjM0MTVlNWQ0ZTI2NTUzYzIyNTU1NjI4MjUyODdlN2E3OTI2NmI1MjQ1NDU1ZDNjNGI2OTI0N2Q0NjcyNDYyNDQ1NjE0NjI4N2IyNTc4NjU0NTIwNzc1OTY1NWU3Yzc0NDM3MzY1NjQ3ODQ3NjU2NDdjN2Y2NDdjNGU3YTZiNjk1ZjcyNDUyMjI5MjU0MTI1N2M1ODI3NDQyNzU4NmIzYzY3NDY3ZDRiMjM2ODU3N2E2NDY2MjM0ZTQzNTMyNDdlN2E0NDdjNDAyOTdiNzQ3ZjY2NjI0ZTYwNDQyNTNjNDI0ZTZiNDk2Nzc2Nzk1ODQyNjA0OTQ4N2Q3NjI1Nzc2YjU3NjM3OTViNjM1MzcwNjU2MjViNzc1ZTYyNDM2NzczNzk0ZTY3NWM2NTQ0NjkyMzYwNzMyNzc2MjE1ODYzNTM3ZjYyMjAyMzdmN2Q0NjIwNTg0MzYxNDY2NjQ2NjQyMjc4Njk1Nzc3NjY2NDczNzk2MDdmNTc0NzI0N2Y3ODQzNjE0YjIzNGU1NzQzN2I2NTNjMjM1MzYwNmI2MjIwNTc2MDc1NDQ3OTY1NDA2MDdhNmI1MzI5MjU0NjdkNjk3OTIxM2M1YzcwNDQyMDcwN2E2MzY2MjAzYzQwNjY1ZTQyNjI2Mjc4NDY2YjY1NDA2OTY2NWUyODY1NzI2MTc2N2E3YzQ3NWU0OTdjNzcyODUzN2U0YjUzNzc0NDUzNDQ0ZTdlNDg3OTIxNjQ2OTQwNDIyNTQ3MjM3MjY5NDk0MDI0NjM2MTI2NDk1ZTViNDc0ODI1NGIyODY4NDc0NDUzNzM2NjViNjM2MjYxN2M3ZDc0NDg1ZTcwMjE3NjI5NDAyNzYzNzIyMjY1N2U3NTQ4NzgyNjc3NTgyODRiNzU3NTIyNTM3NDYyNDQ3MzY3MjE3NjY3NDM2NjNjNmI2NTI3NzM2NDYyMjQ2NjUzNTM0MDRlNjE3YTI3NDI2MTY4NDQ3MjI2N2Y2NjQzMjYyMDc0N2E0NDIyNzcyNTdiMjk1MzU3NDg0MzI3NjM3ZTI4MjI1ZTQyNGU2Yjc0MjA3ODIxN2UyMjUzNzQ0NDIxNjgyNTIyNjc0NzYxNjgyNTY1N2U0Yjc1NjQ3MDQzNjQ3ODU3NjA1YzVjNjYyNTQ5NzI3ZTI1NjI3ZTY3NzQyNTI2Mjg1ODdiN2M2OTI5NzA2Yjc0MjQ2NjI0NjU2NDYxNDA3NzI0MjU3MDQwNzc0ZTQwN2YyODc2NjI0MDRlNWIyODQ4NTg3ZTdiNmIyMjdlNzA0ODdlNDY2MDRiN2YyNjQ4MjU3YzIzNzg0MDZiNTMyODc5NTcyMzIyNjg2MDQ2NDc0OTIxNDQ0YjI5MjgyMjI0Njk0YjczMjg1ODYzN2I3NjNjMjY2NTI4NDM3NTQzMjkyNTYzNGIyODdjNWM3ZjczMjE3MjY3N2E3NDY0Njk3ZTIwNDA1YzI4NTcyNzIzNjEyMjQ3NDY2ODUzM2M3OTdmNTg2OTdjN2Y0ODdkNDg3YTdmNTgyNDc0Mjc3Mjc3NjE3YTQ5NjEyMDdlNzQ0MzYzN2I2OTY5NTMyMDQ4N2M2MDdkNzM3NzY5NDgyNzY0Mjc3NTYwNWM1NzI5NDk3ZTY1N2E0OTI1Mjc3YjI5N2M1Yjc2NjU0OTdjNDQyODc4Nzg0MDIyNWM0MzQ2MjE2MDY5NDQ2MTY0NGU2ODdmNjc3MDIzNzU3MDIzMjMyMTdkNDQ1ODVjMjM2NzQwMjA0OTI0Njk0NjY2NjY1YzI4N2YyNDdmNzg1YjUzNzc0MjQwNzg1ZTU3NmIyNjRlNjA0MzY1NjM2MDVlNjcyMjc1Njk3YjI5N2Y3MDY3NDA0NzRiN2M3ODIzNDk0ODdmNjc0MDViNjY3NDYyNzk=&v=0&ext=.mp4",
+          "quality": "Auto",
+          "type": "StreamSB"
+        }
+      ],
+      "categories": [
+        "popular"
+      ]
+    },
     {
       "id": "anivero-upol-an-adventurer-s-daily-gr-qj1l",
       "type": "anime",
