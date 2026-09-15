@@ -4,13 +4,48 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-15T10:40:21.954Z",
-    "totalEntries": 7,
+    "lastUpdated": "2026-09-15T11:13:36.103Z",
+    "totalEntries": 8,
     "totalAnime": 4,
-    "totalMovies": 3,
+    "totalMovies": 4,
     "totalEpisodes": 7
   },
   "anime": [
+    {
+      "id": "anivero-upol-jujutsu-kaisen-0-r31p",
+      "type": "movie",
+      "title": "Jujutsu Kaisen 0",
+      "aired": "December 24, 2021",
+      "rating": "8.5/10",
+      "description": "Yuta Okkotsu is haunted by a powerful curse connected to his childhood friend, Rika.\nHe joins Jujutsu High under Satoru Gojo's guidance and learns to control his abilities.\nAlongside Maki, Toge, and Panda, Yuta grows stronger and gains confidence.\nMeanwhile, Suguru Geto launches a dangerous plan that puts the sorcerers to the test.",
+      "posterUrl": "https://i.imgur.com/T7DTsvQ.jpeg",
+      "studio": "MAPPA",
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Supernatural",
+        "Drama"
+      ],
+      "status": "Completed",
+      "uploadedBy": "UPOLz",
+      "verifiedBy": "UPOLz",
+      "isVerified": true,
+      "createdAt": "2026-09-15T11:13:36.103Z",
+      "updatedAt": "2026-09-15T11:13:36.103Z",
+      "servers": [
+        {
+          "id": "anivero-upol-srv-1789470671135-m1",
+          "name": "Master 4K Stream",
+          "url": "https://as-cdn26.top/cdn/hls/be7875fdae716de6406d9bfe76ec4bf4/master.m3u8?md5=6RjaNWiZnn9ko_RRNsS8zw&expires=1789476708",
+          "quality": "4K",
+          "type": "Direct HLS / MP4"
+        }
+      ],
+      "categories": [
+        "popular"
+      ]
+    },
     {
       "id": "anivero-upol-death-note-krz0",
       "type": "anime",
