@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-15T10:34:45.600Z",
+    "lastUpdated": "2026-09-15T10:40:21.954Z",
     "totalEntries": 7,
     "totalAnime": 4,
     "totalMovies": 3,
@@ -195,7 +195,7 @@
       "type": "anime",
       "title": "Black torch",
       "aired": "july 4, 2026",
-      "rating": "8.9/10",
+      "rating": "7.4/10",
       "description": "Jiro Azuma is a rough-and-tumble high schooler descended from a long line of ninjas who possesses the unique, supernatural ability to communicate with animals. His life takes a dangerous turn after rescuing an injured black cat named Rago, who turns out to be a powerful, legendary demonic spirit known as a Mononoke. When a fatal clash with hostile spirits forces Rago to fuse with him to save his life, Jiro is granted extraordinary powers. Now paired with the snarky spirit cat, he is recruited into a secret government espionage agency called \"Black Torch\" to fight off rogue spirits threatening humanity.",
       "posterUrl": "https://i.imgur.com/DeSifOh.jpeg",
       "studio": "100studio",
@@ -208,7 +208,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-13T11:09:45.555Z",
-      "updatedAt": "2026-09-13T12:02:28.987Z",
+      "updatedAt": "2026-09-15T10:40:21.954Z",
       "seasons": [
         {
           "id": "s-1789297645617",
