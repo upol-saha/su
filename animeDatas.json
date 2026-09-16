@@ -4,7 +4,7 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-15T11:13:36.103Z",
+    "lastUpdated": "2026-09-16T09:34:17.935Z",
     "totalEntries": 8,
     "totalAnime": 4,
     "totalMovies": 4,
@@ -32,12 +32,12 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-15T11:13:36.103Z",
-      "updatedAt": "2026-09-15T11:13:36.103Z",
+      "updatedAt": "2026-09-16T09:34:17.935Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789470671135-m1",
-          "name": "Master 4K Stream",
-          "url": "https://as-cdn26.top/cdn/hls/be7875fdae716de6406d9bfe76ec4bf4/master.m3u8?md5=6RjaNWiZnn9ko_RRNsS8zw&expires=1789476708",
+          "name": "anivero-jp",
+          "url": "https://as-cdn26.top/cdn/hls/be7875fdae716de6406d9bfe76ec4bf4/master.m3u8?md5=SqL4mA_U-CIEucKrCGf4xw&expires=1789558188",
           "quality": "4K",
           "type": "Direct HLS / MP4"
         }
