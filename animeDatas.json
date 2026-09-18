@@ -4,322 +4,13 @@
     "repo": "su",
     "fileName": "animeDatas.json",
     "branch": "main",
-    "lastUpdated": "2026-09-16T09:38:25.302Z",
-    "totalEntries": 8,
-    "totalAnime": 4,
-    "totalMovies": 4,
-    "totalEpisodes": 7
+    "lastUpdated": "2026-09-18T17:08:07.268Z",
+    "totalEntries": 2,
+    "totalAnime": 0,
+    "totalMovies": 2,
+    "totalEpisodes": 0
   },
   "anime": [
-    {
-      "id": "anivero-upol-jujutsu-kaisen-0-r31p",
-      "type": "movie",
-      "title": "Jujutsu Kaisen 0",
-      "aired": "December 24, 2021",
-      "rating": "8.5/10",
-      "description": "Yuta Okkotsu is haunted by a powerful curse connected to his childhood friend, Rika.\nHe joins Jujutsu High under Satoru Gojo's guidance and learns to control his abilities.\nAlongside Maki, Toge, and Panda, Yuta grows stronger and gains confidence.\nMeanwhile, Suguru Geto launches a dangerous plan that puts the sorcerers to the test.",
-      "posterUrl": "https://i.imgur.com/T7DTsvQ.jpeg",
-      "studio": "MAPPA",
-      "genre": [
-        "Action",
-        "Fantasy",
-        "Mystery",
-        "Supernatural",
-        "Drama"
-      ],
-      "status": "Completed",
-      "uploadedBy": "UPOLz",
-      "verifiedBy": "UPOLz",
-      "isVerified": true,
-      "createdAt": "2026-09-15T11:13:36.103Z",
-      "updatedAt": "2026-09-16T09:38:25.301Z",
-      "servers": [
-        {
-          "id": "anivero-upol-srv-1789470671135-m1",
-          "name": "anivero-en",
-          "url": "https://as-cdn26.top/cdn/hls/be7875fdae716de6406d9bfe76ec4bf4/master.m3u8?md5=QbKMbJpxq9wBjGEFJ-Vnng&expires=1789558231",
-          "quality": "4K",
-          "type": "Direct HLS / MP4"
-        }
-      ],
-      "categories": [
-        "popular"
-      ]
-    },
-    {
-      "id": "anivero-upol-death-note-krz0",
-      "type": "anime",
-      "title": "Death Note (デスノート)",
-      "aired": "October 3, 2006",
-      "rating": "9.1/10",
-      "description": "Light Yagami, a highly intelligent student, discovers a mysterious notebook with supernatural powers.\nHe decides to use it to eliminate criminals and create what he considers a perfect world.\nHis actions attract the attention of the brilliant detective L.\nThis leads to an intense battle of intelligence, strategy, and deception.",
-      "posterUrl": "https://i.imgur.com/H0qdENd.jpeg",
-      "studio": "MADHOUSE",
-      "genre": [
-        "Fantasy",
-        "Horror",
-        "Mystery",
-        "Supernatural",
-        "Thriller",
-        "Crime"
-      ],
-      "status": "Completed",
-      "uploadedBy": "UPOLz",
-      "verifiedBy": "UPOLz",
-      "isVerified": true,
-      "createdAt": "2026-09-15T10:34:45.599Z",
-      "updatedAt": "2026-09-15T10:34:45.599Z",
-      "seasons": [
-        {
-          "id": "s-1789468362948",
-          "seasonNumber": 1,
-          "title": "Season 1",
-          "episodes": [
-            {
-              "id": "ep-1789468362948-1",
-              "episodeNumber": 1,
-              "title": "Episode 1",
-              "duration": "24m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789468362948-1",
-                  "name": "anivero-hindi",
-                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/34/s8/2/G/V/G/d/GVGdz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=180784640-180798345",
-                  "quality": "Auto",
-                  "type": "StreamSB"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "categories": [
-        "popular"
-      ]
-    },
-    {
-      "id": "anivero-upol-an-adventurer-s-daily-gr-qj1l",
-      "type": "anime",
-      "title": "An adventurer's daily grind at age 29",
-      "aired": "January 7, 2026",
-      "rating": "8.5/10",
-      "description": "Hajime Shinonome is a 29-year-old adventurer who grew up in the slums.\nHe now enjoys a peaceful life in Komai Village while taking on adventurer quests.\nDuring a dungeon mission, he finds an abandoned young girl named Rirui in danger.\nHajime rescues her and brings her back to the village, beginning an unexpected new chapter in both their lives.",
-      "posterUrl": "https://i.imgur.com/quKWCCN.jpeg",
-      "studio": "HORNETS",
-      "genre": [
-        "Action",
-        "Fantasy",
-        "Adventure",
-        "Comedy"
-      ],
-      "status": "Completed",
-      "uploadedBy": "UPOLz",
-      "verifiedBy": "UPOLz",
-      "isVerified": true,
-      "createdAt": "2026-09-13T11:56:43.778Z",
-      "updatedAt": "2026-09-13T12:02:04.002Z",
-      "seasons": [
-        {
-          "id": "s-1789300502665",
-          "seasonNumber": 1,
-          "title": "Season 1",
-          "episodes": [
-            {
-              "id": "ep-1789300502665-1",
-              "episodeNumber": 1,
-              "title": "Episode 1",
-              "duration": "24m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789300502665-1",
-                  "name": "anivero-hindi",
-                  "url": "https://img1.knocw.com/hls/a1b09e731d2e873b5f3cb6c94f91135fa9592801/720/index_338.m3u8?auth_key=66ALphgRqd2CH53%2FJzCDMMcp2Jz6nBOvevONs7qw2%2B8%3D&expire=1789136565311",
-                  "quality": "1080p",
-                  "type": "VidCloud"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "categories": [
-        "popular"
-      ]
-    },
-    {
-      "id": "anivero-upol-tomb-raider-king-qv6v",
-      "type": "anime",
-      "title": "Tomb Raider King",
-      "aired": "July 8, 2026",
-      "rating": "6.3/10",
-      "description": "Mysterious tombs suddenly appear around the world, each containing powerful relics.\nTomb raider Jooheon Suh is betrayed and nearly dies.\nHe mysteriously travels 15 years into the past, before the tombs appear.\nUsing his knowledge of the future, he sets out to claim the relics and take revenge.",
-      "posterUrl": "https://i.imgur.com/FRd6MHM.jpeg",
-      "studio": "Studio EEK",
-      "genre": [
-        "Action",
-        "Fantasy",
-        "Adventure",
-        "Mystery"
-      ],
-      "status": "Completed",
-      "uploadedBy": "UPOLz",
-      "verifiedBy": "UPOLz",
-      "isVerified": true,
-      "createdAt": "2026-09-13T11:23:54.972Z",
-      "updatedAt": "2026-09-13T12:02:51.282Z",
-      "seasons": [
-        {
-          "id": "s-1789298543417",
-          "seasonNumber": 1,
-          "title": "Season 1",
-          "episodes": [
-            {
-              "id": "ep-1789298543417-1",
-              "episodeNumber": 1,
-              "title": "Episode 1",
-              "duration": "23m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789298543417-1",
-                  "name": "anivero-hindi",
-                  "url": "https://hugh.cdn.rumble.cloud/video/fwe2/00/s8/2/Q/o/T/J/QoTJA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181623808-181637614",
-                  "quality": "1080p",
-                  "type": "MegaCloud"
-                }
-              ]
-            },
-            {
-              "id": "ep-1789298892798-2",
-              "episodeNumber": 2,
-              "title": "Episode 2",
-              "duration": "23m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789298895063",
-                  "name": "anivero-hindi",
-                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/15/s8/2/-/j/1/L/-j1LA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181502464-181516176",
-                  "quality": "1080p",
-                  "type": "MegaCloud"
-                }
-              ]
-            },
-            {
-              "id": "ep-1789298907044-3",
-              "episodeNumber": 3,
-              "title": "Episode 3",
-              "duration": "23m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789298910725",
-                  "name": "anivero-hindi",
-                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/e9/s8/2/y/8/u/P/y8uPA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=181702144-181715975",
-                  "quality": "1080p",
-                  "type": "MegaCloud"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "categories": [
-        "popular"
-      ]
-    },
-    {
-      "id": "anivero-upol-black-torch-mar7",
-      "type": "anime",
-      "title": "Black torch",
-      "aired": "july 4, 2026",
-      "rating": "7.4/10",
-      "description": "Jiro Azuma is a rough-and-tumble high schooler descended from a long line of ninjas who possesses the unique, supernatural ability to communicate with animals. His life takes a dangerous turn after rescuing an injured black cat named Rago, who turns out to be a powerful, legendary demonic spirit known as a Mononoke. When a fatal clash with hostile spirits forces Rago to fuse with him to save his life, Jiro is granted extraordinary powers. Now paired with the snarky spirit cat, he is recruited into a secret government espionage agency called \"Black Torch\" to fight off rogue spirits threatening humanity.",
-      "posterUrl": "https://i.imgur.com/DeSifOh.jpeg",
-      "studio": "100studio",
-      "genre": [
-        "Action",
-        "Dark-Fantasy"
-      ],
-      "status": "Completed",
-      "uploadedBy": "UPOLz",
-      "verifiedBy": "UPOLz",
-      "isVerified": true,
-      "createdAt": "2026-09-13T11:09:45.555Z",
-      "updatedAt": "2026-09-15T10:40:21.954Z",
-      "seasons": [
-        {
-          "id": "s-1789297645617",
-          "seasonNumber": 1,
-          "title": "Season 1",
-          "episodes": [
-            {
-              "id": "ep-1789297645617-1",
-              "episodeNumber": 1,
-              "title": "Episode 1",
-              "duration": "24m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789297645617-1",
-                  "name": "anivero-hindi",
-                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/6f/s8/2/u/t/F/T/utFTA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=187041280-187055472",
-                  "quality": "1080p",
-                  "type": "StreamSB"
-                }
-              ]
-            },
-            {
-              "id": "ep-1789298032576-2",
-              "episodeNumber": 2,
-              "title": "Episode 2",
-              "duration": "24m",
-              "servers": [
-                {
-                  "id": "anivero-upol-srv-1789298040964",
-                  "name": "anivero-hindi",
-                  "url": "https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/2/o/g/I/W/ogIWA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=187158016-187172210",
-                  "quality": "1080p",
-                  "type": "StreamSB"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "categories": [
-        "popular"
-      ]
-    },
-    {
-      "id": "anivero-upol-suzume-ao9v",
-      "type": "movie",
-      "title": "Suzume",
-      "aired": "November 11, 2022",
-      "rating": "7.9/10",
-      "description": "The story follows 17-year-old Suzume Iwato, a high school girl living in a quiet town in Kyushu who encounters a mysterious traveler named Souta looking for ruins. After she unwittingly opens a supernatural, freestanding door in the mountains, she accidentally releases a colossal force that causes devastating earthquakes across the country. To correct her mistake, she embarks on a fast-paced road trip across Japan to lock these magical portals before they unleash total ruin. Along the way, she must navigate this high-stakes mission while accompanied by Souta, who has been curse-transformed into a small, three-legged wooden chair.",
-      "posterUrl": "https://i.imgur.com/dzKTivs.jpeg",
-      "studio": "CoMix Wave Films",
-      "genre": [
-        "Drama",
-        "Romance",
-        "Fantasy"
-      ],
-      "status": "Completed",
-      "uploadedBy": "UPOLz",
-      "verifiedBy": "UPOLz",
-      "isVerified": true,
-      "createdAt": "2026-09-13T03:02:21.769Z",
-      "updatedAt": "2026-09-13T03:02:21.769Z",
-      "servers": [
-        {
-          "id": "anivero-upol-srv-1789268443936-m1",
-          "name": "anivero-hindi",
-          "url": "https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/2/g/G/L/u/gGLuy.caa.mp4",
-          "quality": "1080p",
-          "type": "Direct HLS / MP4"
-        }
-      ],
-      "categories": [
-        "popular"
-      ]
-    },
     {
       "id": "anivero-upol-1789225830457-ou3iq",
       "type": "movie",
@@ -340,26 +31,18 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "createdAt": "2026-09-12T15:10:30.457Z",
-      "updatedAt": "2026-09-13T03:02:49.640Z",
+      "updatedAt": "2026-09-18T17:08:07.268Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789225675410-m1",
-          "name": "anivero-en",
-          "url": "https://edge1-moscow-sprintcdn.owphbf24.com/hls2/01/11243/r0lb5v2imimu_h/master.m3u8?t=ylXinKXZFwZWgXQEjb1AECYwTSc5F1WTb8weTwoFMuQ&s=1789134620&e=10800&f=56219331&srv=1050&asn=&sp=4000&p=0",
+          "name": "anivero-jp",
+          "url": "https://moon.peakstorm.top/vd/anlQV3RRWWdtQkY5Ul95eFVEUUxsdzpCR212TE43UDNiZzNLV0hRaFVGanlPRmlvbzhwWWl2aldKSzNRcmxIQnlV/index-s1080p-v1-a1.m3u8",
           "quality": "1080p",
-          "type": "Direct HLS / MP4"
-        },
-        {
-          "id": "anivero-upol-srv-m-1789225781280-2",
-          "name": "anivero-en-hd",
-          "url": "https://edge1-moscow-sprintcdn.owphbf24.com/hls2/01/11243/r0lb5v2imimu_h/index-v1-a1.m3u8?t=ylXinKXZFwZWgXQEjb1AECYwTSc5F1WTb8weTwoFMuQ&s=1789134620&e=10800&f=56219331&srv=1050&asn=&sp=4000&p=0",
-          "quality": "1080p",
-          "type": "Direct HLS / MP4"
+          "type": "External"
         }
       ],
       "categories": [
-        "trending",
-        "complete"
+        "popular"
       ]
     },
     {
@@ -378,7 +61,7 @@
       ],
       "status": "Completed",
       "createdAt": "2026-09-12T14:43:29.779Z",
-      "updatedAt": "2026-09-13T03:02:33.320Z",
+      "updatedAt": "2026-09-12T15:14:46.822Z",
       "servers": [
         {
           "id": "anivero-upol-srv-1789224061306-m1",
@@ -392,8 +75,7 @@
       "verifiedBy": "UPOLz",
       "isVerified": true,
       "categories": [
-        "popular",
-        "complete"
+        "popular"
       ]
     }
   ]
